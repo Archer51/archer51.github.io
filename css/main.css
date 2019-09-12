@@ -1673,7 +1673,7 @@ article:last-child .post-eof {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ff86a2;
+  background: #eddfff;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2348,21 +2348,14 @@ ul.breadcrumb li + li:last-child {
     width: auto;
   }
 }
-.header-inner {
-  right: 0;
+.back-to-top {
+  left: auto;
+  right: 30px;
 }
-.content-wrap {
-  float: left;
-}
-.sidebar {
-  float: right;
-}
-.book-mark-link {
-  left: 30px;
-}
-.footer-inner {
-  padding-left: 0;
-  padding-right: 260px;
+@media (max-width: 991px) {
+  .back-to-top {
+    right: 20px;
+  }
 }
 .site-brand-container {
   position: relative;
