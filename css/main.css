@@ -151,7 +151,7 @@ template {
   color: #fff;
 }
 body {
-  background: #eee;
+  background: #f0efe2;
   color: #555;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
   font-size: 1em;
@@ -1010,7 +1010,7 @@ pre .javascript .function {
   position: relative;
 }
 .headband {
-  background: #222;
+  background: #f7cac9;
   height: 3px;
 }
 .site-meta {
@@ -1023,7 +1023,7 @@ pre .javascript .function {
   }
 }
 .brand {
-  background: #222;
+  background: #f7cac9;
   border-bottom: none;
   color: #fff;
   display: inline-block;
@@ -1032,7 +1032,7 @@ pre .javascript .function {
   position: relative;
 }
 .brand:hover {
-  color: #fff;
+  color: #f7cac9;
 }
 .logo {
   display: inline-block;
@@ -1049,7 +1049,7 @@ pre .javascript .function {
   vertical-align: top;
 }
 .site-subtitle {
-  color: #ddd;
+  color: #fff;
   font-size: 0.8125em;
   margin-top: 10px;
 }
@@ -1593,13 +1593,6 @@ article:last-child .post-eof {
   align-self: center;
   height: 30px;
 }
-.post-copyright {
-  background-color: #f9f9f9;
-  border-left: 3px solid #ff1700;
-  list-style: none;
-  margin: 2em 0 0;
-  padding: 0.5em 1em;
-}
 .sidebar {
   background: #222;
   bottom: 0;
@@ -1680,7 +1673,7 @@ article:last-child .post-eof {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #16ffd7;
+  background: #ff86a2;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
@@ -2332,7 +2325,7 @@ ul.breadcrumb li + li:last-child {
   }
 }
 .sidebar {
-  background: #eee;
+  background: #f0efe2;
   box-shadow: none;
   float: left;
   position: static;
@@ -2375,7 +2368,7 @@ ul.breadcrumb li + li:last-child {
   position: relative;
 }
 .site-meta {
-  background: #222;
+  background: #f7cac9;
   color: #fff;
   padding: 20px 0;
 }
@@ -2704,10 +2697,10 @@ ul.breadcrumb li + li:last-child {
 }
 .post-body h1,
 .post-body h2 {
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #f0efe2;
 }
 .post-body h3 {
-  border-bottom: 1px dotted #eee;
+  border-bottom: 1px dotted #f0efe2;
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .content-wrap {
