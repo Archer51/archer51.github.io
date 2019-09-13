@@ -5,9 +5,9 @@
   <subtitle>A Lot of Love for Life</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://archer51.github.io/"/>
   <updated>2019-09-12T18:20:21.895Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://archer51.github.io/</id>
   
   <author>
     <name>Archer</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>github+hexo，我终于搭了个自己的博客啦！</title>
-    <link href="http://yoursite.com/2019/09/13/github+hexo%EF%BC%8C%E6%88%91%E7%BB%88%E4%BA%8E%E6%90%AD%E4%BA%86%E4%B8%AA%E8%87%AA%E5%B7%B1%E7%9A%84%E5%8D%9A%E5%AE%A2%E5%95%A6%EF%BC%81/"/>
-    <id>http://yoursite.com/2019/09/13/github+hexo，我终于搭了个自己的博客啦！/</id>
+    <link href="http://archer51.github.io/2019/09/13/My%20First%20Blog/"/>
+    <id>http://archer51.github.io/2019/09/13/My First Blog/</id>
     <published>2019-09-12T18:06:42.000Z</published>
     <updated>2019-09-12T18:20:21.895Z</updated>
     
@@ -32,10 +32,10 @@
     </summary>
     
     
-      <category term="Life" scheme="http://yoursite.com/categories/Life/"/>
+      <category term="Life" scheme="http://archer51.github.io/categories/Life/"/>
     
     
-      <category term="Hexo" scheme="http://yoursite.com/tags/Hexo/"/>
+      <category term="Hexo" scheme="http://archer51.github.io/tags/Hexo/"/>
     
   </entry>
   
