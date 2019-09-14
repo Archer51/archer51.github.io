@@ -45,7 +45,7 @@
       labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
     },
     localsearch: {"enable":true,"trigger":"auto","top_n_per_article":1,"unescape":false,"preload":false},
-    path: './public/search.xml',
+    path: 'search.xml',
     motion: {"enable":true,"async":false,"transition":{"post_block":"fadeIn","post_header":"slideDownIn","post_body":"slideDownIn","coll_header":"slideLeftIn","sidebar":"slideUpIn"}},
     translation: {
       copy_button: 'Copy',
@@ -149,22 +149,11 @@
       
       
         
-        <li class="menu-item menu-item-categories">
+        <li class="menu-item menu-item-about">
       
     
 
-    <a href="/categories/" rel="section"><i class="menu-item-icon fa fa-fw fa-th"></i> <br>Categories</a>
-
-  </li>
-      
-      
-      
-        
-        <li class="menu-item menu-item-tags">
-      
-    
-
-    <a href="/tags/" rel="section"><i class="menu-item-icon fa fa-fw fa-tags"></i> <br>Tags</a>
+    <a href="/about/" rel="section"><i class="menu-item-icon fa fa-fw fa-user"></i> <br>About</a>
 
   </li>
       
@@ -182,11 +171,22 @@
       
       
         
-        <li class="menu-item menu-item-about">
+        <li class="menu-item menu-item-categories">
       
     
 
-    <a href="/about/" rel="section"><i class="menu-item-icon fa fa-fw fa-user"></i> <br>About</a>
+    <a href="/categories/" rel="section"><i class="menu-item-icon fa fa-fw fa-th"></i> <br>Categories</a>
+
+  </li>
+      
+      
+      
+        
+        <li class="menu-item menu-item-tags">
+      
+    
+
+    <a href="/tags/" rel="section"><i class="menu-item-icon fa fa-fw fa-tags"></i> <br>Tags</a>
 
   </li>
       <li class="menu-item menu-item-search">
@@ -256,7 +256,7 @@
       <header class="post-header">
         <h1 class="post-title" itemprop="name headline">
             
-            <a href="/2019/09/13/my-first-blog/" class="post-title-link" itemprop="url">github+hexo，我终于搭了个自己的博客啦！</a>
+            <a href="/2019/09/13/my-first-blog/" class="post-title-link" itemprop="url">建站小记</a>
           
         </h1>
 
@@ -271,11 +271,19 @@
                 
               
 
-              <time title="Created: 2019-09-13 02:06:42 / Modified: 02:20:21" itemprop="dateCreated datePublished" datetime="2019-09-13T02:06:42+08:00">2019-09-13</time>
+              <time title="Created: 2019-09-13 02:06:42" itemprop="dateCreated datePublished" datetime="2019-09-13T02:06:42+08:00">2019-09-13</time>
             </span>
           
             
 
+            
+              <span class="post-meta-item">
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-calendar-check-o"></i>
+                </span>
+                <span class="post-meta-item-text">Edited on</span>
+                <time title="Modified: 2019-09-14 23:27:38" itemprop="dateModified" datetime="2019-09-14T23:27:38+08:00">2019-09-14</time>
+              </span>
             
           
             <span class="post-meta-item">
@@ -301,7 +309,7 @@
               
                 <span class="post-meta-item-text">Symbols count in article: </span>
               
-              <span>1.4k</span>
+              <span>2.3k</span>
             </span>
           
             <span class="post-meta-item" title="Reading time">
@@ -311,7 +319,7 @@
               
                 <span class="post-meta-item-text">Reading time &asymp;</span>
               
-              <span>2 mins.</span>
+              <span>4 mins.</span>
             </span>
           
 
@@ -324,7 +332,14 @@
     <div class="post-body" itemprop="articleBody">
 
       
-          <p><strong>以下内容并不能作为攻略</strong></p><h3 id="我为什么选择建blog"><a href="#我为什么选择建blog" class="headerlink" title="我为什么选择建blog"></a>我为什么选择建blog</h3><p>有一个自己的博客好像是一件很极客的事。虽然不是程序员，但是听起来很酷。而且我一直眼红很多国外主妇拥有自己的网站，她们在漂亮的页面上分享家庭日常和美食料理。<br>建博客的目的倒是很明确，我想有个爬格子的地方，而且可以纯粹一点，这也是我喜欢用markdown的原因之一。这个博客我希望是一个存放我的心头好的安乐窝，同时也是我的垃圾桶。<br>虽然公众号也可以做到，但我其实很害羞，又很贪心，写在公众号上就会想让更多的人看到，可是我就连分享到自己朋友圈都是怯怯的。</p>
+          <p><strong>更新记录</strong></p><ul>
+<li><p>9月11日 搭建本地环境</p>
+</li>
+<li><p>9月12日 初步美化及功能设置</p>
+</li>
+<li><p>9月13日-9月14日 美化</p>
+</li>
+</ul><h4 id="我为什么选择建Blog"><a href="#我为什么选择建Blog" class="headerlink" title="我为什么选择建Blog"></a>我为什么选择建Blog</h4><p>有一个自己的博客好像是一件很极客的事。虽然不是程序员，但是听起来很酷。而且我一直眼红很多国外主妇拥有自己的网站，她们在漂亮的页面上分享家庭日常和美食料理。</p><p>建博客的目的倒是很明确，我想有个爬格子的地方，而且可以纯粹一点，这也是我喜欢用markdown的原因之一。这个博客我希望是一个存放我的心头好的安乐窝，同时也是我的垃圾桶。</p>
           <!--noindex-->
           
             <div class="post-button text-center">
@@ -436,7 +451,7 @@
             <a href="/tags/">
           
         
-        <span class="site-state-item-count">1</span>
+        <span class="site-state-item-count">3</span>
         <span class="site-state-item-name">tags</span>
         </a>
       </div>
@@ -454,7 +469,7 @@
       
         
       
-        <a href="https://weibo.com/joyceche" title="Wiebo &rarr; https://weibo.com/joyceche" rel="noopener" target="_blank"><i class="fa fa-fw fa-weibo"></i></a>
+        <a href="https://weibo.com/joyceche" title="Wiebo" rel="noopener" target="_blank"><i class="fa fa-fw fa-weibo"></i></a>
       </span>
     
       <span class="links-of-author-item">
@@ -463,7 +478,34 @@
       
         
       
-        <a href="https://instagram.com/archerwjc" title="Instagram &rarr; https://instagram.com/archerwjc" rel="noopener" target="_blank"><i class="fa fa-fw fa-instagram"></i></a>
+        <a href="https://instagram.com/archerwjc" title="Instagram" rel="noopener" target="_blank"><i class="fa fa-fw fa-instagram"></i></a>
+      </span>
+    
+      <span class="links-of-author-item">
+      
+      
+      
+        
+      
+        <a href="https://www.goodreads.com/user/show/47339906-archer" title="Goodreads" rel="noopener" target="_blank"><i class="fa fa-fw fa-book"></i></a>
+      </span>
+    
+      <span class="links-of-author-item">
+      
+      
+      
+        
+      
+        <a href="https://music.163.com/#/user/home?id=43087746" title="Netease Cloud Music" rel="noopener" target="_blank"><i class="fa fa-fw fa-music"></i></a>
+      </span>
+    
+      <span class="links-of-author-item">
+      
+      
+      
+        
+      
+        <a href="mailto:archerwjc@gmail.com" title="E-Mail" rel="noopener" target="_blank"><i class="fa fa-fw fa-envelope"></i></a>
       </span>
     
   </div>
@@ -493,14 +535,14 @@
     </span>
       <span class="post-meta-item-text">Symbols count total: </span>
     
-    <span title="Symbols count total">1k</span>
+    <span title="Symbols count total">2k</span>
     <span class="post-meta-divider">|</span>
     <span class="post-meta-item-icon">
       <i class="fa fa-coffee"></i>
     </span>
       <span class="post-meta-item-text">Reading time total &asymp;</span>
     
-    <span title="Reading time total">2 mins.</span>
+    <span title="Reading time total">4 mins.</span>
 </div>
 
         

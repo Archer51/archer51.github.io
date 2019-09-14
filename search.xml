@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title><![CDATA[建站小记]]></title>
+    <url>%2F2019%2F09%2F13%2Fmy-first-blog%2F</url>
+    <content type="text"><![CDATA[更新记录 9月11日 搭建本地环境 9月12日 初步美化及功能设置 9月13日-9月14日 美化 我为什么选择建Blog有一个自己的博客好像是一件很极客的事。虽然不是程序员，但是听起来很酷。而且我一直眼红很多国外主妇拥有自己的网站，她们在漂亮的页面上分享家庭日常和美食料理。建博客的目的倒是很明确，我想有个爬格子的地方，而且可以纯粹一点，这也是我喜欢用markdown的原因之一。这个博客我希望是一个存放我的心头好的安乐窝，同时也是我的垃圾桶。 虽然公众号也可以做到，但我其实很害羞，又很贪心，写在公众号上就会想让更多的人看到，可是我就连分享到自己朋友圈都是怯怯的。 框架的选择去年也尝试过在github上搭，当时照着resolvewang的步骤，不过在一些个性化的东西上改了一周，还是有大大小小的问题。一生气把库也删了，大不了从头再来，但是可别叫我再修改了。 我对拥有一个自己的Blog一直不死心，最近又想起这个未完事项，想到上一次的经历，这次选择用hexo框架，一来，网上的教程比较多，二来，ice和anc都用过，再出现问题，我就做个伸手党。 最后事实是，我觉得开口提问的自己像个智障儿童，问过几次后还是决心靠自己。 部署问题Github终究是国外的服务器，国内访问有点慢，之后会视更博的频率考虑买域名和服务器。 搭建过程新手上路特别感谢 up主 CodeSheep的教程按照程序羊的教程三十分钟搭建了本地环境并部署到github上。至于美化及功能的设置却用了五个小时。 主题的选择主题用的是NexT，程序羊推荐的yilia其实也不错，但是对我来说还是不够简洁。NexT的四种布局也方便我以后看厌了的更换，又不会影响整体的风格，目前比较喜欢Gemini。 功能设置在功能上我需要：按月的归档、标签、分类、个人简介、搜索和订阅。参考过Hexo使用攻略-添加分类及标签、hexo创建自定义about页等文章。按月归档目前还没有实现。 搜索功能起初参考了Hexo+Next集成Algolia搜索，用Algolia添加，测试成功后部署到github上，结果出现三个搜索栏。因为next自身也有搜索功能，所以考虑改为本地搜索，参考hexo next博客将搜索功能修改为本地搜索 美化美化是大坑！ NexT的黑白系色调和我想用的Blog名字风格不太搭，所以在美化的时候有一部分时间用在了颜色的选择上，在颜色上想要一种初恋感，所以考虑粉、白、灰的组合。 网站图标的背景色也同样选择粉色，因为一直用Archer的名字，所以画了一个小logo。 颜色修改的地方也有点难找，更新到7.X之后有些设置也换了地方，尝试了很多教程，还没看到满意的。最后是靠F12找到名称，再去css里边找边调整。 修改经验趁着中秋节时间比较集中，就修改了一些自己不太满意的地方。因为过于细节，所以找不到别人的指路，不过，聪明如我，在坚持不懈的捣鼓下，一一解决了以下问题： 标题字体Blog的标题字体太细了，后续想换成字体或者用图片替换，这次先修改字号大小并加粗。 字号:修改位置themes\next\source\css_variables\base.styl中的font-size-largest 字体加粗:themes\next\source\css_common\components\header\site-meta.styl font-weight: bold 正文标题加粗：在themes\next\source\css_common\components\post\post-title.styl中修改font-weight 子标题字体大小:修改subtitle-font-size属性值 字宽:themes\next\source\css_schemes\Pisces_brand.styl 图标在社交链接中添加goodreads和网易云之后缺少图标，尝试过在custom里添加style的方法，加过不仅没有显示图标，连网页版式都荡然无存，最后用了折中的方法，在Font Awesome里挑选比较符合的图标，复制icon名。 鼠标悬停社交link在鼠标悬停的时候显示的title过长 themes\next\layout_partials\sidebar\site-overview.swig 找到if theme.social，删除{title: name + ‘ &rarr; ‘ + sidebarURL})中的“+ ‘ &rarr; ‘ + sidebarURL” 归档页面的提示语修改位置在themes\next\layout\archive.swig 没有想到更好的提示语，所以暂时先把span class=”collection-header”……这行删了 rss与社交账号的图标间距修改位置themes\next\source\css_common\components\sidebar\sidebar-author-links.styl margin-top 这几天为了建站搜到了很多技术大佬的Blog，有些做的真的很好看，还嵌入了豆瓣读书、观影记录，昨天晚上我一开始也陷入了迷死，找教程改代码，明明很清楚这违背了自己的初心。直到看到另一个Blog，作者在上面分享自己每月看过的书、追过的番、听过的Podcast，我觉得真有意思。那一刻，我也重新想起一个老套的道理，语句只是一个工具，网站只是一个平台，真正的内容是自己一字一句的随感。这个建站小记也不会经常更新了，因为轻微强迫症的我对此已经很满意了。 我已经迫不及待想在下一篇见到你们啦！]]></content>
+      <categories>
+        <category>Life</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+      </tags>
+  </entry>
+</search>
