@@ -1027,7 +1027,7 @@ pre .javascript .function {
   border-bottom: none;
   color: #fff;
   display: inline-block;
-  line-height: 1.375em;
+  line-height: 2em;
   padding: 0 40px;
   position: relative;
 }
@@ -1043,14 +1043,14 @@ pre .javascript .function {
 .site-title {
   display: inline-block;
   font-family: 'Lato', "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 1.375em;
-  font-weight: normal;
+  font-size: 2em;
+  font-weight: bold;
   line-height: 1.5;
   vertical-align: top;
 }
 .site-subtitle {
   color: #fff;
-  font-size: 0.8125em;
+  font-size: 12px;
   margin-top: 10px;
 }
 .use-motion .brand {
@@ -1531,7 +1531,7 @@ article:last-child .post-eof {
 .posts-expand .post-title {
   overflow-wrap: break-word;
   word-wrap: break-word;
-  font-weight: 400;
+  font-weight: 800;
   margin: initial;
   text-align: center;
 }
@@ -1660,7 +1660,7 @@ article:last-child .post-eof {
   text-align: center;
 }
 .links-of-author {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 .links-of-author a,
 .links-of-author span.exturl {
@@ -1673,7 +1673,7 @@ article:last-child .post-eof {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ffffeb;
+  background: #906282;
   border-radius: 50%;
   content: ' ';
   display: inline-block;
