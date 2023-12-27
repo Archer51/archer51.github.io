@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://archer51.github.io/"/>
-  <updated>2023-08-01T08:55:24.651Z</updated>
+  <updated>2023-12-27T02:37:48.886Z</updated>
   <id>http://archer51.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>正式进入冷静期</title>
+    <link href="http://archer51.github.io/2023/12/27/cooling-off/"/>
+    <id>http://archer51.github.io/2023/12/27/cooling-off/</id>
+    <published>2023-12-27T02:31:50.000Z</published>
+    <updated>2023-12-27T02:37:48.886Z</updated>
+    
+    <content type="html"><![CDATA[<p>真的很气愤，专家提出这个自我感觉良好的提议，并且还纳入了《民法典》，让原本就痛苦的人，因为他们的“创举”多出30天的漫长时间。这三十天真的可以冷静下来吗？</p><p>我相信大部分夫妻去办离婚，都不是一时冲动，我们的行动力什么时候这么强了？</p><p>为什么不尊重本就已经争执了无数遍，失眠了多少个夜之后做出的决定？</p><p>提到离婚，我总想到《奋斗》里杨晓芸和向南离婚的场景。那时候没有冷静期，但是工作人员还是加以劝阻。</p><a id="more"></a><p>工作人员说：“要不你们再想一想。”杨晓芸说：“没什么好想的了，我们想好了。”</p><p>俩人在民政局吵吵闹闹，最后还是没离成。</p><p>曾经杨晓芸说过：“我想跟你好，谁也挡不了，我想跟你处，谁也拦不住。”就像婚礼上所有新人立下海誓山盟。</p><p>剧里，杨晓芸假出轨，真离婚，最后又复婚了。杨晓芸和向南之间还有爱，而我迈出这一步，我们之间不再有爱，同时我也坚定了自己的不婚主义。</p><p>现在想来，世界很巧妙。拍婚纱照的时候喜欢的模板正巧是一对网红夫妻，日落、莫奈、经典，那时他们也刚结婚不久。有一天，我在微博突然发现他们离婚了，没有公开缘由，没有撕逼。</p><p>结婚时选司仪，看了很多样片，选中的司仪朋友圈总是晒和女儿的搞笑逗比日常。可是去年，突然看到他发了一张离婚协议书的照片，才知道他们已经纠葛许久。</p><p>如今，我，也要离婚了。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;真的很气愤，专家提出这个自我感觉良好的提议，并且还纳入了《民法典》，让原本就痛苦的人，因为他们的“创举”多出30天的漫长时间。这三十天真的可以冷静下来吗？&lt;/p&gt;&lt;p&gt;我相信大部分夫妻去办离婚，都不是一时冲动，我们的行动力什么时候这么强了？&lt;/p&gt;&lt;p&gt;为什么不尊重本就已经争执了无数遍，失眠了多少个夜之后做出的决定？&lt;/p&gt;&lt;p&gt;提到离婚，我总想到《奋斗》里杨晓芸和向南离婚的场景。那时候没有冷静期，但是工作人员还是加以劝阻。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Life" scheme="http://archer51.github.io/categories/Life/"/>
+    
+    
+      <category term="life" scheme="http://archer51.github.io/tags/life/"/>
+    
+  </entry>
   
   <entry>
     <title>阿满诞生记</title>
@@ -511,36 +534,6 @@
       <category term="Rime" scheme="http://archer51.github.io/tags/Rime/"/>
     
       <category term="Games" scheme="http://archer51.github.io/tags/Games/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>建站小记</title>
-    <link href="http://archer51.github.io/2019/09/13/my-first-blog/"/>
-    <id>http://archer51.github.io/2019/09/13/my-first-blog/</id>
-    <published>2019-09-12T18:06:42.000Z</published>
-    <updated>2019-09-14T15:27:38.050Z</updated>
-    
-    <content type="html"><![CDATA[<p><strong>更新记录</strong></p><ul><li><p>9月11日 搭建本地环境</p></li><li><p>9月12日 初步美化及功能设置</p></li><li><p>9月13日-9月14日 美化</p></li></ul><h4 id="我为什么选择建Blog"><a href="#我为什么选择建Blog" class="headerlink" title="我为什么选择建Blog"></a>我为什么选择建Blog</h4><p>有一个自己的博客好像是一件很极客的事。虽然不是程序员，但是听起来很酷。而且我一直眼红很多国外主妇拥有自己的网站，她们在漂亮的页面上分享家庭日常和美食料理。</p><p>建博客的目的倒是很明确，我想有个爬格子的地方，而且可以纯粹一点，这也是我喜欢用markdown的原因之一。这个博客我希望是一个存放我的心头好的安乐窝，同时也是我的垃圾桶。</p><a id="more"></a><p>虽然公众号也可以做到，但我其实很害羞，又很贪心，写在公众号上就会想让更多的人看到，可是我就连分享到自己朋友圈都是怯怯的。</p><hr><h4 id="框架的选择"><a href="#框架的选择" class="headerlink" title="框架的选择"></a>框架的选择</h4><p>去年也尝试过在github上搭，当时照着resolvewang的步骤，不过在一些个性化的东西上改了一周，还是有大大小小的问题。一生气把库也删了，大不了从头再来，但是可别叫我再修改了。</p><p>我对拥有一个自己的Blog一直不死心，最近又想起这个未完事项，想到上一次的经历，这次选择用hexo框架，一来，网上的教程比较多，二来，ice和anc都用过，再出现问题，我就做个伸手党。</p><p>最后事实是，我觉得开口提问的自己像个智障儿童，问过几次后还是决心靠自己。</p><hr><h4 id="部署问题"><a href="#部署问题" class="headerlink" title="部署问题"></a>部署问题</h4><p>Github终究是国外的服务器，国内访问有点慢，之后会视更博的频率考虑买域名和服务器。</p><hr><h4 id="搭建过程"><a href="#搭建过程" class="headerlink" title="搭建过程"></a>搭建过程</h4><h5 id="新手上路"><a href="#新手上路" class="headerlink" title="新手上路"></a>新手上路</h5><p>特别感谢 up主 CodeSheep的<a href="https://www.bilibili.com/video/av44544186?t=1374" target="_blank" rel="noopener">教程</a><br>按照程序羊的教程三十分钟搭建了本地环境并部署到github上。至于美化及功能的设置却用了五个小时。</p><h5 id="主题的选择"><a href="#主题的选择" class="headerlink" title="主题的选择"></a>主题的选择</h5><p>主题用的是NexT，程序羊推荐的yilia其实也不错，但是对我来说还是不够简洁。NexT的四种布局也方便我以后看厌了的更换，又不会影响整体的风格，目前比较喜欢Gemini。</p><h5 id="功能设置"><a href="#功能设置" class="headerlink" title="功能设置"></a>功能设置</h5><p>在功能上我需要：按月的归档、标签、分类、个人简介、搜索和订阅。参考过<a href="https://www.jianshu.com/p/e17711e44e00" target="_blank" rel="noopener">Hexo使用攻略-添加分类及标签</a>、<a href="https://www.jianshu.com/p/60f5c84aa5a8" target="_blank" rel="noopener">hexo创建自定义about页</a>等文章。按月归档目前还没有实现。</p><p>搜索功能起初参考了<a href="https://segmentfault.com/a/1190000018803949" target="_blank" rel="noopener">Hexo+Next集成Algolia搜索</a>，用Algolia添加，测试成功后部署到github上，结果出现三个搜索栏。因为next自身也有搜索功能，所以考虑改为本地搜索，参考<a href="https://blog.csdn.net/dataiyangu/article/details/98777464" target="_blank" rel="noopener">hexo next博客将搜索功能修改为本地搜索</a></p><h5 id="美化"><a href="#美化" class="headerlink" title="美化"></a>美化</h5><p>美化是大坑！</p><p>NexT的黑白系色调和我想用的Blog名字风格不太搭，所以在美化的时候有一部分时间用在了颜色的选择上，在颜色上想要一种初恋感，所以考虑粉、白、灰的组合。</p><p>网站图标的背景色也同样选择粉色，因为一直用Archer的名字，所以画了一个小logo。</p><p>颜色修改的地方也有点难找，更新到7.X之后有些设置也换了地方，尝试了很多教程，还没看到满意的。最后是靠F12找到名称，再去css里边找边调整。</p><hr><h4 id="修改经验"><a href="#修改经验" class="headerlink" title="修改经验"></a>修改经验</h4><p>趁着中秋节时间比较集中，就修改了一些自己不太满意的地方。因为过于细节，所以找不到别人的指路，不过，聪明如我，在坚持不懈的捣鼓下，一一解决了以下问题：</p><h5 id="标题字体"><a href="#标题字体" class="headerlink" title="标题字体"></a>标题字体</h5><p>Blog的标题字体太细了，后续想换成字体或者用图片替换，这次先修改字号大小并加粗。</p><p><strong>字号:</strong>修改位置themes\next\source\css_variables\base.styl中的font-size-largest </p><p><strong>字体加粗:</strong>themes\next\source\css_common\components\header\site-meta.styl</p><p>font-weight: bold</p><p><strong>正文标题加粗：</strong>在themes\next\source\css_common\components\post\post-title.styl中修改font-weight</p><p><strong>子标题字体大小:</strong>修改subtitle-font-size属性值</p><p><strong>字宽:</strong>themes\next\source\css_schemes\Pisces_brand.styl</p><h5 id="图标"><a href="#图标" class="headerlink" title="图标"></a>图标</h5><p>在社交链接中添加goodreads和网易云之后缺少图标，尝试过在custom里添加style的方法，加过不仅没有显示图标，连网页版式都荡然无存，最后用了折中的方法，在<a href="http://fontawesome.dashgame.com/" target="_blank" rel="noopener">Font Awesome</a>里挑选比较符合的图标，复制icon名。</p><h5 id="鼠标悬停"><a href="#鼠标悬停" class="headerlink" title="鼠标悬停"></a>鼠标悬停</h5><p>社交link在鼠标悬停的时候显示的title过长</p><p>themes\next\layout_partials\sidebar\site-overview.swig</p><p>找到if theme.social，删除{title: name + ‘ &rarr; ‘ + sidebarURL})中的“+ ‘ &rarr; ‘ + sidebarURL”</p><h5 id="归档页面的提示语"><a href="#归档页面的提示语" class="headerlink" title="归档页面的提示语"></a>归档页面的提示语</h5><p>修改位置在themes\next\layout\archive.swig</p><p>没有想到更好的提示语，所以暂时先把span class=”collection-header”……这行删了</p><h5 id="rss与社交账号的图标间距"><a href="#rss与社交账号的图标间距" class="headerlink" title="rss与社交账号的图标间距"></a>rss与社交账号的图标间距</h5><p>修改位置themes\next\source\css_common\components\sidebar\sidebar-author-links.styl<br>  margin-top</p><hr><p>这几天为了建站搜到了很多技术大佬的Blog，有些做的真的很好看，还嵌入了豆瓣读书、观影记录，昨天晚上我一开始也陷入了迷死，找教程改代码，明明很清楚这违背了自己的初心。直到看到另一个Blog，作者在上面分享自己每月看过的书、追过的番、听过的Podcast，我觉得真有意思。那一刻，我也重新想起一个老套的道理，语句只是一个工具，网站只是一个平台，真正的内容是自己一字一句的随感。这个建站小记也不会经常更新了，因为轻微强迫症的我对此已经很满意了。</p><p>我已经迫不及待想在下一篇见到你们啦！</p>]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;&lt;strong&gt;更新记录&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;9月11日 搭建本地环境&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;9月12日 初步美化及功能设置&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;9月13日-9月14日 美化&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ul&gt;&lt;h4 id=&quot;我为什么选择建Blog&quot;&gt;&lt;a href=&quot;#我为什么选择建Blog&quot; class=&quot;headerlink&quot; title=&quot;我为什么选择建Blog&quot;&gt;&lt;/a&gt;我为什么选择建Blog&lt;/h4&gt;&lt;p&gt;有一个自己的博客好像是一件很极客的事。虽然不是程序员，但是听起来很酷。而且我一直眼红很多国外主妇拥有自己的网站，她们在漂亮的页面上分享家庭日常和美食料理。&lt;/p&gt;&lt;p&gt;建博客的目的倒是很明确，我想有个爬格子的地方，而且可以纯粹一点，这也是我喜欢用markdown的原因之一。这个博客我希望是一个存放我的心头好的安乐窝，同时也是我的垃圾桶。&lt;/p&gt;
-    
-    </summary>
-    
-    
-      <category term="Life" scheme="http://archer51.github.io/categories/Life/"/>
-    
-    
-      <category term="Hexo" scheme="http://archer51.github.io/tags/Hexo/"/>
     
   </entry>
   
